@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- Exact Hero Header Design matching reference layout -->
-  <img src="https://raw.githubusercontent.com/AppleYT9/AppleYT9/main/header-hero.svg" width="100%" alt="Madhan Senthilkumar Hero Header"/>
+  <!-- Animated Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:3b0764,70:581c87,100:0d1117&height=220&section=header&text=Hello,%20I'm%20Madhan%20Senthilkumar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=46" width="100%" alt="Header Banner"/>
   
   <br/>
   

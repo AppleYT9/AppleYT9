@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Custom Hero Header Banner using user's photo -->
-  <img src="https://raw.githubusercontent.com/AppleYT9/AppleYT9/main/header-banner.jpg" width="100%" alt="Madhan Senthilkumar Header Banner"/>
+  <img src="https://raw.githubusercontent.com/AppleYT9/AppleYT9/main/header-banner-v2.jpg" width="100%" alt="Madhan Senthilkumar Header Banner"/>
   
   <br/>
   

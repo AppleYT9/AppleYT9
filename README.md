@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- 3D Animated Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,35:3b0764,70:1e1b4b,100:0d1117&height=240&section=header&text=MADHAN%20SENTHILKUMAR&fontSize=46&fontColor=a855f7&animation=twinkle&fontAlign=50&fontAlignY=38" width="100%" alt="3D Animated Banner"/>
+  <!-- Animated Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:3b0764,70:581c87,100:0d1117&height=240&section=header&text=Hi,%20I'm%20Madhan%20Senthilkumar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=45" width="100%" alt="Header Banner"/>
   
   <br/>
   

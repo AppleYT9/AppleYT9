@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- Full-Height 4K Natural Color Hero Header Banner -->
-  <img src="https://raw.githubusercontent.com/AppleYT9/AppleYT9/main/header-banner-v3.jpg" width="100%" alt="Madhan Senthilkumar Header Banner"/>
+  <!-- Standing Natural Color 4K Hero Header Banner -->
+  <img src="https://raw.githubusercontent.com/AppleYT9/AppleYT9/main/header-banner-v4.jpg" width="100%" alt="Madhan Senthilkumar Header Banner"/>
   
   <br/>
   

@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- Animated Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:3b0764,70:581c87,100:0d1117&height=220&section=header&text=Hello,%20I'm%20Madhan%20Senthilkumar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=46" width="100%" alt="Header Banner"/>
+  <!-- Custom Hero Header Banner using user's photo -->
+  <img src="https://raw.githubusercontent.com/AppleYT9/AppleYT9/main/header-banner.jpg" width="100%" alt="Madhan Senthilkumar Header Banner"/>
   
   <br/>
   

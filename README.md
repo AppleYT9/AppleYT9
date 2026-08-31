@@ -1,16 +1,22 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=200&section=header&text=MADHAN%20SENTHILKUMAR&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=38" width="100%" alt="Header Banner"/>
+  <!-- 3D Animated Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,35:3b0764,70:1e1b4b,100:0d1117&height=240&section=header&text=MADHAN%20SENTHILKUMAR&fontSize=46&fontColor=a855f7&animation=twinkle&fontAlign=50&fontAlignY=38" width="100%" alt="3D Animated Banner"/>
+  
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vcenter=true&width=600&lines=Data+Analyst;Data+Science+Enthusiast;AI+%26+ML+Engineer;GenAI+%26+RAG+Developer;Software+Developer;" alt="Typing SVG" />
+  
+  <!-- 3D Typing Animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=06B6D4&center=true&vcenter=true&width=700&lines=%F0%9F%A4%96+AI+%26+Machine+Learning+Engineer;%F0%9F%A7%A0+GenAI+%26+Explainable+RAG+Architect;%F0%9F%93%8A+Data+Scientist+%26+Causal+Inference+Specialist;%F0%9F%91%81%EF%B8%8F+Computer+Vision+%26+YOLOv8+%2B+ByteTrack;%F0%9F%92%A1+Full-Stack+AI+Developer;" alt="3D Typing SVG" />
+  
   <br/><br/>
   
-  <img src="https://img.shields.io/badge/Education-B.Tech_AI_%26_ML-7C3AED?style=flat-square&logo=academicons&logoColor=white" alt="B.Tech AI & ML" />
-  <img src="https://img.shields.io/badge/University-Parul_University-4F46E5?style=flat-square&logo=google-scholar&logoColor=white" alt="Parul University" />
-  <img src="https://img.shields.io/badge/Focus-Data_Analytics-6366F1?style=flat-square&logo=python&logoColor=white" alt="Data Analytics" />
-  <img src="https://img.shields.io/badge/Focus-Machine_Learning_%26_GenAI-A855F7?style=flat-square&logo=scikit-learn&logoColor=white" alt="Machine Learning & GenAI" />
+  <!-- 3D Glowing Key Badges -->
+  <img src="https://img.shields.io/badge/Degree-B.Tech_AI_%26_ML-7C3AED?style=for-the-badge&logo=academicons&logoColor=white" alt="B.Tech AI & ML" />
+  <img src="https://img.shields.io/badge/University-Parul_University-4F46E5?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Parul University" />
+  <img src="https://img.shields.io/badge/CGPA-8.30-06B6D4?style=for-the-badge&logo=target&logoColor=white" alt="CGPA" />
   <br/><br/>
 
-  <a href="https://linkedin.com/in/madhan-senthilkumar-a37641340">
+  <!-- 3D Glowing Social Badges -->
+  <a href="https://linkedin.com/in/madhan-senthilkumar-a37641340" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   &nbsp;
@@ -18,119 +24,113 @@
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
   &nbsp;
-  <a href="https://github.com/AppleYT9">
+  <a href="https://github.com/AppleYT9" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+  <a href="https://port-folio-zeta-liard.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Live_Site-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
   </a>
   <br/><br/>
 
-  <img src="https://komarev.com/ghpvc/?username=AppleYT9&color=7c3aed&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/AppleYT9?label=Followers&style=flat-square&color=7c3aed&logo=github" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/AppleYT9?label=Stars&style=flat-square&color=7c3aed&logo=github" alt="Stars"/>
+  <!-- 3D Live Metrics Badges -->
+  <img src="https://komarev.com/ghpvc/?username=AppleYT9&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/AppleYT9?label=Followers&style=for-the-badge&color=4f46e5&logo=github" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/AppleYT9?label=Stars&style=for-the-badge&color=06b6d4&logo=github" alt="Stars"/>
 </div>
 
----
-
-## About Me
-
-I'm **Madhan Senthilkumar**, a B.Tech student in **Artificial Intelligence & Machine Learning** at **Parul University** (CGPA: 8.30).
-
-I build end-to-end computer vision systems, explainable ML risk models, GenAI/RAG architectures, time-series forecasting pipelines, causal inference statistical engines, and scalable full-stack applications. 
-
-My expertise spans the full data science and engineering lifecycle — from EDA, feature engineering, and model interpretability (SHAP) to shipping production APIs and interactive web platforms using FastAPI, Streamlit, Next.js, and Docker.
-
-### Open To
-* 📊 **Data Analyst** opportunities
-* 🧪 **Data Science** opportunities
-* 🤖 **AI / ML / GenAI** opportunities
-* 💻 **Software Engineering** opportunities
-* 🎓 **Internships & Graduate / Fresher roles**
+<!-- 3D Animated Spectrum Divider Line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="3D Spectrum Divider"/>
 
 ---
 
-## Tech Stack
+## ⚡ About Me
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+```yaml
+name: Madhan Senthilkumar
+role: AI & ML Engineer | Data Scientist | Full-Stack AI Developer
+education: B.Tech in AI & ML @ Parul University (CGPA: 8.30)
+experience: 2 Internships (Future Interns & Cognifyz Technologies) + Deloitte Australia Virtual Job Simulation
+specialties:
+  - GenAI & Dual-Mode Explainable RAG Architecture
+  - Causal Inference (PSM, SRM Validation, Bayesian Beta-Binomial)
+  - Computer Vision (YOLOv8 + ByteTrack Speed & Density Tracking)
+  - Explainable ML (SHAP Interpretability, Prophet Demand Forecasting)
+  - Full-Stack Deployments (FastAPI, Streamlit, Next.js, React, Docker)
+```
 
-### Generative AI & RAG Engineering
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6600?style=flat-square&logo=database&logoColor=white)
-![Llama 3.1](https://img.shields.io/badge/Llama_3.1-0467DF?style=flat-square&logo=meta&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq_LLM-F05032?style=flat-square&logo=cpu&logoColor=white)
-![Embeddings](https://img.shields.io/badge/Sentence--Transformers-7C3AED?style=flat-square&logo=huggingface&logoColor=white)
-![RAG](https://img.shields.io/badge/Explainable_RAG-009688?style=flat-square&logo=search&logoColor=white)
-
-### Data Science & Machine Learning
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=ultralytics&logoColor=black)
-![ByteTrack](https://img.shields.io/badge/ByteTrack-FFD700?style=flat-square&logo=video&logoColor=black)
-![SHAP](https://img.shields.io/badge/SHAP-Explainability-9C27B0?style=flat-square&logo=python&logoColor=white)
-![Prophet](https://img.shields.io/badge/Prophet-Forecasting-2196F3?style=flat-square&logo=meta&logoColor=white)
-![Isolation Forest](https://img.shields.io/badge/Isolation_Forest-Anomaly_Detection-E91E63?style=flat-square&logo=scikit-learn&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-
-### Causal Inference & Advanced Statistics
-![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=flat-square&logo=scipy&logoColor=white)
-![Statsmodels](https://img.shields.io/badge/Statsmodels-4B0082?style=flat-square&logo=python&logoColor=white)
-![A/B Testing](https://img.shields.io/badge/A/B_Testing-Hypothesis_Testing-4CAF50?style=flat-square&logo=google-analytics&logoColor=white)
-![PSM](https://img.shields.io/badge/PSM-Propensity_Score_Matching-FF9800?style=flat-square&logo=balance-scale&logoColor=white)
-![Bayesian Inference](https://img.shields.io/badge/Bayesian_Inference-Beta--Binomial-673AB7?style=flat-square&logo=calculator&logoColor=white)
-
-### Data Analytics & BI
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-### Backend
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-
-### Databases & Cloud Services
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6600?style=flat-square&logo=database&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-### Tools & DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+### 🎯 Open To Opportunities
+* 🤖 **AI / ML / GenAI Engineer**
+* 🧪 **Data Scientist**
+* 📊 **Data Analyst**
+* 💻 **Full-Stack / Software Engineer**
+* 🎓 **Internships & Graduate / Fresher Roles**
 
 ---
 
-## Data & AI Expertise
+<!-- 3D Animated Spectrum Divider Line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="3D Spectrum Divider"/>
+
+## 🛠️ Tech Stack & Skill Matrix
+
+### 🚀 Generative AI & RAG Engineering
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF6600?style=for-the-badge&logo=database&logoColor=white" />
+  <img src="https://img.shields.io/badge/Llama_3.1-0467DF?style=for-the-badge&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq_LLM-F05032?style=for-the-badge&logo=cpu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sentence--Transformers-7C3AED?style=for-the-badge&logo=huggingface&logoColor=white" />
+  <img src="https://img.shields.io/badge/Explainable_RAG-009688?style=for-the-badge&logo=search&logoColor=white" />
+</p>
+
+### ⚖️ Causal Inference & Advanced Statistics
+<p>
+  <img src="https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Statsmodels-4B0082?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/A/B_Testing-Hypothesis_Testing-4CAF50?style=for-the-badge&logo=google-analytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/PSM-Propensity_Score_Matching-FF9800?style=for-the-badge&logo=balance-scale&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bayesian_Inference-Beta--Binomial-673AB7?style=for-the-badge&logo=calculator&logoColor=white" />
+</p>
+
+### 👁️ Machine Learning, Computer Vision & Explainability
+<p>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=ultralytics&logoColor=black" />
+  <img src="https://img.shields.io/badge/ByteTrack-FFD700?style=for-the-badge&logo=video&logoColor=black" />
+  <img src="https://img.shields.io/badge/SHAP-Explainability-9C27B0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prophet-Forecasting-2196F3?style=for-the-badge&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/Isolation_Forest-Anomaly_Detection-E91E63?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+</p>
+
+### 📊 Programming & Data Analytics
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+### 💻 Full-Stack & Cloud Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
+
+---
+
+## 🔮 Data & AI Domain Matrix
 
 | Domain | Focus Areas | Tools & Technologies |
 | :--- | :--- | :--- |
@@ -143,10 +143,13 @@ My expertise spans the full data science and engineering lifecycle — from EDA,
 
 ---
 
-## Featured Projects
+<!-- 3D Animated Spectrum Divider Line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="3D Spectrum Divider"/>
+
+## 🔬 Featured Projects
 
 <details open>
-<summary><b>🔍 Project 1 — Marketing Campaign A/B Test & Causal Impact Analysis</b></summary>
+<summary><b>🔍 1. Marketing Campaign A/B Test & Causal Impact Analysis</b></summary>
 
 <br>
 
@@ -164,7 +167,7 @@ My expertise spans the full data science and engineering lifecycle — from EDA,
 <br>
 
 <details>
-<summary><b>🤖 Project 2 — FitCheck: Dual-Mode Explainable RAG Hiring Platform</b></summary>
+<summary><b>🤖 2. FitCheck: Dual-Mode Explainable RAG Hiring Platform</b></summary>
 
 <br>
 
@@ -181,7 +184,7 @@ My expertise spans the full data science and engineering lifecycle — from EDA,
 <br>
 
 <details>
-<summary><b>🚗 Project 3 — AI-Powered Traffic Analytics System</b></summary>
+<summary><b>🚗 3. AI-Powered Traffic Analytics System</b></summary>
 
 <br>
 
@@ -198,7 +201,7 @@ My expertise spans the full data science and engineering lifecycle — from EDA,
 <br>
 
 <details>
-<summary><b>📈 Project 4 — Customer Churn Prediction & Retention Platform</b></summary>
+<summary><b>📈 4. Customer Churn Prediction & Retention Platform</b></summary>
 
 <br>
 
@@ -215,7 +218,7 @@ My expertise spans the full data science and engineering lifecycle — from EDA,
 <br>
 
 <details>
-<summary><b>🧹 Project 5 — DataSanitizer Pro</b></summary>
+<summary><b>🧹 5. DataSanitizer Pro</b></summary>
 
 <br>
 
@@ -232,7 +235,7 @@ My expertise spans the full data science and engineering lifecycle — from EDA,
 <br>
 
 <details>
-<summary><b>🛡️ Project 6 — SafeGo – Inclusive Ride Assistance & Safety Platform</b></summary>
+<summary><b>🛡️ 6. SafeGo – Inclusive Ride Assistance & Safety Platform</b></summary>
 
 <br>
 
@@ -249,7 +252,7 @@ My expertise spans the full data science and engineering lifecycle — from EDA,
 <br>
 
 <details>
-<summary><b>📊 Project 7 — Retail Sales Analytics & Forecasting</b></summary>
+<summary><b>📊 7. Retail Sales Analytics & Forecasting</b></summary>
 
 <br>
 
@@ -265,7 +268,7 @@ My expertise spans the full data science and engineering lifecycle — from EDA,
 <br>
 
 <details>
-<summary><b>👁️ Project 8 — Flood Detection Using Deep Learning</b></summary>
+<summary><b>👁️ 8. Flood Detection Using Deep Learning</b></summary>
 
 <br>
 
@@ -280,11 +283,10 @@ My expertise spans the full data science and engineering lifecycle — from EDA,
 
 ---
 
-## Experience
+## 💼 Professional Experience
 
 ### 📊 Data Science Intern — Future Interns
 *Dec 2025 – Jan 2026*
-
 * Engineered a weighted KPI scoring model across Likert scale survey datasets to quantify satisfaction (surfacing 4.21/5 top metric).
 * Executed data cleaning, EDA, and statistical visualization using Python, Pandas, and Seaborn for institutional review.
 
@@ -292,7 +294,6 @@ My expertise spans the full data science and engineering lifecycle — from EDA,
 
 ### 🤖 Machine Learning Intern — Cognifyz Technologies
 *Nov 2025 – Dec 2025*
-
 * Designed & executed end-to-end EDA and dataset preprocessing pipelines using Python and Pandas on large-scale datasets.
 * Built, tuned, and evaluated supervised classification and regression models using Scikit-learn.
 
@@ -300,12 +301,11 @@ My expertise spans the full data science and engineering lifecycle — from EDA,
 
 ### 📈 Data Analytics Virtual Experience — Deloitte Australia
 *2024*
-
 * Completed virtual simulation conducting data cleaning, statistical analysis, and predictive modeling on behavioral datasets.
 
 ---
 
-## Certifications & Achievements
+## 🏆 Certifications & Achievements
 
 | Certification / Achievement | Issuer / Org | Year |
 | :--- | :--- | :--- |
@@ -319,34 +319,38 @@ My expertise spans the full data science and engineering lifecycle — from EDA,
 
 ---
 
-## GitHub Analytics
+<!-- 3D Animated Spectrum Divider Line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="3D Spectrum Divider"/>
+
+## 🏆 3D Profile Trophy Wall
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=AppleYT9&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="Madhan's GitHub Stats" height="175"/>
-  <img src="https://streak-stats.demolab.com/?user=AppleYT9&theme=dark&hide_border=false" alt="Madhan's GitHub Streak" height="175"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=AppleYT9&theme=radical&no-frame=false&no-bg=true&margin-w=15&margin-h=15&column=4" alt="3D Trophies Wall"/>
+</div>
+
+---
+
+## 📊 3D Holographic GitHub Analytics & Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=AppleYT9&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="Madhan's GitHub Stats" height="180"/>
+  &nbsp;&nbsp;
+  <img src="https://streak-stats.demolab.com/?user=AppleYT9&theme=tokyonight&hide_border=false" alt="Madhan's GitHub Streak" height="180"/>
   <br/><br/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AppleYT9&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AppleYT9&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="170"/>
 </div>
 
 ---
 
-## GitHub Trophies
+## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AppleYT9&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AppleYT9&theme=react-dark&hide_border=true" alt="Contribution Activity Graph" width="100%"/>
 </div>
 
 ---
 
-## Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AppleYT9&theme=react-dark&hide_border=true" alt="Contribution Graph" width="100%"/>
-</div>
-
----
-
-## Contribution Snake
+## 🐍 Contribution Snake Animation
 
 <div align="center">
   <picture>
@@ -358,31 +362,10 @@ My expertise spans the full data science and engineering lifecycle — from EDA,
 
 ---
 
-## Current Focus
-
-```yaml
-learning:
-  - Generative AI & Agentic Workflows
-  - Advanced Causal Inference & Statistical Modeling
-  - Production Deep Learning & Vision Pipelines
-
-building:
-  - Explainable RAG platforms
-  - Real-time computer vision systems
-  - Data-driven predictive engines
-
-open_to:
-  - Data Science & Data Analyst roles
-  - AI / ML / GenAI Engineering opportunities
-  - Software Engineering roles
-```
-
----
-
-## Let's Connect
+## 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/madhan-senthilkumar-a37641340">
+  <a href="https://linkedin.com/in/madhan-senthilkumar-a37641340" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
@@ -390,8 +373,12 @@ open_to:
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/AppleYT9">
+  <a href="https://github.com/AppleYT9" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://port-folio-zeta-liard.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Live_Site-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
 
@@ -399,7 +386,7 @@ open_to:
 
 <div align="center">
   <br/>
-  <p><i>"Turning data into insights and ideas into scalable intelligent solutions."</i></p>
+  <p><i>"Turning raw data into actionable insights and intelligent systems."</i></p>
   <br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=100&section=footer" width="100%" alt="Footer Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7c3aed,100:0d1117&height=120&section=footer" width="100%" alt="Footer Banner"/>
 </div>

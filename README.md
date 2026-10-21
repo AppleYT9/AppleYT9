@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- 3D Typing Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=06B6D4&center=true&vcenter=true&width=700&lines=%F0%9F%A4%96+AI+%26+Machine+Learning+Engineer;%F0%9F%A7%A0+GenAI+%26+Explainable+RAG+Architect;%F0%9F%93%8A+Data+Scientist+%26+Causal+Inference+Specialist;%F0%9F%91%81%EF%B8%8F+Computer+Vision+%26+YOLOv8+%2B+ByteTrack;%F0%9F%92%A1+Full-Stack+AI+Developer;" alt="3D Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=06B6D4&center=true&vcenter=true&width=700&lines=%F0%9F%A4%96+AI+%26+Machine+Learning+Engineer;%F0%9F%A7%A0+GenAI+%26+Explainable+RAG+Architect;%F0%9F%93%8A+Data+Scientist+%26+Causal+Inference+Specialist;%F0%9F%91%81%EF%B8%8F+Computer+Vision+%26+YOLOv8+%2B+ByteTrack;%E2%9A%99%EF%B8%8F+ML+Systems+%26+Production+AI+Deployment;" alt="3D Typing SVG" />
   
   <br/><br/>
   
@@ -43,23 +43,23 @@
 
 ```yaml
 name: Madhan Senthilkumar
-role: AI & ML Engineer | Data Scientist | Full-Stack AI Developer
+role: AI & ML Engineer | Data Scientist | ML Systems Specialist
 education: B.Tech in AI & ML @ Parul University (CGPA: 8.30)
 experience: 2 Internships (Future Interns & Cognifyz Technologies) + Deloitte Australia Virtual Job Simulation
 specialties:
   - GenAI & Dual-Mode Explainable RAG Architecture
   - Causal Inference (PSM, SRM Validation, Bayesian Beta-Binomial)
-  - Computer Vision (YOLOv8 + ByteTrack Speed & Density Tracking)
-  - Explainable ML (SHAP Interpretability, Prophet Demand Forecasting)
-  - Full-Stack Deployments (FastAPI, Streamlit, Next.js, React, Docker)
+  - Computer Vision (YOLOv8 + ByteTrack Real-Time Speed & Density Tracking)
+  - Explainable ML & Statistics (SHAP Interpretability, Prophet Forecasting)
+  - ML Systems & Production Deployment (FastAPI, Docker, Streamlit, Vector DBs)
 ```
 
 ### 🎯 Open To Opportunities
-* 🤖 **AI / ML / GenAI Engineer**
-* 🧪 **Data Scientist**
-* 📊 **Data Analyst**
-* 💻 **Full-Stack / Software Engineer**
-* 🎓 **Internships & Graduate / Fresher Roles**
+* 🤖 **Machine Learning Engineer / GenAI Engineer**
+* 🧪 **Data Scientist / Applied Scientist**
+* 📊 **Data Analyst & Statistical Modeler**
+* ⚙️ **MLOps & AI Systems Engineer**
+* 🎓 **Internships & Graduate / Entry-Level Roles**
 
 ---
 
@@ -67,6 +67,27 @@ specialties:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="3D Spectrum Divider"/>
 
 ## 🛠️ Tech Stack & Skill Matrix
+
+### 🐍 Core Programming & Machine Learning Foundations
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
+
+### ⚖️ Causal Inference, Advanced Statistics & Explainable AI
+<p>
+  <img src="https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Statsmodels-4B0082?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/A/B_Testing-Hypothesis_Testing-4CAF50?style=for-the-badge&logo=google-analytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/PSM-Propensity_Score_Matching-FF9800?style=for-the-badge&logo=balance-scale&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bayesian_Inference-Beta--Binomial-673AB7?style=for-the-badge&logo=calculator&logoColor=white" />
+  <img src="https://img.shields.io/badge/SHAP-Explainability-9C27B0?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
 ### 🚀 Generative AI & RAG Engineering
 <p>
@@ -78,49 +99,28 @@ specialties:
   <img src="https://img.shields.io/badge/Explainable_RAG-009688?style=for-the-badge&logo=search&logoColor=white" />
 </p>
 
-### ⚖️ Causal Inference & Advanced Statistics
+### 👁️ Computer Vision & Time-Series Forecasting
 <p>
-  <img src="https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Statsmodels-4B0082?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/A/B_Testing-Hypothesis_Testing-4CAF50?style=for-the-badge&logo=google-analytics&logoColor=white" />
-  <img src="https://img.shields.io/badge/PSM-Propensity_Score_Matching-FF9800?style=for-the-badge&logo=balance-scale&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bayesian_Inference-Beta--Binomial-673AB7?style=for-the-badge&logo=calculator&logoColor=white" />
-</p>
-
-### 👁️ Machine Learning, Computer Vision & Explainability
-<p>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=ultralytics&logoColor=black" />
   <img src="https://img.shields.io/badge/ByteTrack-FFD700?style=for-the-badge&logo=video&logoColor=black" />
-  <img src="https://img.shields.io/badge/SHAP-Explainability-9C27B0?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Prophet-Forecasting-2196F3?style=for-the-badge&logo=meta&logoColor=white" />
   <img src="https://img.shields.io/badge/Isolation_Forest-Anomaly_Detection-E91E63?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-</p>
-
-### 📊 Programming & Data Analytics
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
   <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-### 💻 Full-Stack & Cloud Infrastructure
+### ⚙️ ML Systems, Model Serving & Deployment
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
@@ -135,7 +135,7 @@ specialties:
 | **Computer Vision & Tracking**| Object Detection, Speed Estimation, Traffic Density Classification, Multi-Object Tracking | YOLOv8, ByteTrack, OpenCV, TensorFlow, Keras, CNN |
 | **Explainable ML & Forecasting** | Churn Risk Scoring, Feature Interpretability, Anomaly Detection, Time-Series Demand Forecasting | Scikit-learn, SHAP, Prophet, Isolation Forest, Streamlit |
 | **Data Analytics & BI** | EDA, Data Quality Pipelines, KPI Scoring Models, Interactive Dashboarding | Python, Pandas, NumPy, SQL, Power BI, Matplotlib, Seaborn |
-| **Backend & Full-Stack** | REST API Architecture, MERN Stack Applications, Interactive Machine Learning Deployments | FastAPI, Streamlit, React, Next.js, TypeScript, Spring Boot |
+| **ML Systems & Serving** | High-Throughput REST APIs, Dockerized ML Microservices, Vector Database Indexing, Interactive Model Dashboards | FastAPI, Docker, Streamlit, ChromaDB, React, Next.js, SQLite |
 
 ---
 
@@ -172,7 +172,7 @@ specialties:
 | Attribute | Details |
 | :--- | :--- |
 | **Stack** | React, FastAPI, LangChain, ChromaDB, Groq / Llama 3.1 LLM, Sentence-Transformers |
-| **Key Features** | Vector embeddings semantic search, skill gap extraction, candidate ranking leaderboard, and bias/fairness auditing layer. |
+| **Key Features & Performance** | Sub-second semantic vector retrieval (<500ms via ChromaDB + Groq), automated skill gap extraction, candidate ranking leaderboard, and bias/fairness auditing layer. |
 | **Live Demo & Code** | [Live Demo (Render)](https://fitcheck-rag.onrender.com/) • [GitHub Repository](https://github.com/AppleYT9/Fitcheck-RAG-) |
 
 </details>
@@ -189,7 +189,7 @@ specialties:
 | Attribute | Details |
 | :--- | :--- |
 | **Stack** | Python, YOLOv8, ByteTrack, OpenCV, SQLite |
-| **Core Features** | Multi-object detection & tracking, frame-by-frame velocity estimation, real-time density classification, and automated violation logging. |
+| **Core Features & Performance** | Real-time multi-class tracking (~30+ FPS), frame-by-frame velocity estimation, dynamic traffic density classification, and automated violation logging. |
 | **Repository** | [github.com/AppleYT9](https://github.com/AppleYT9) |
 
 </details>

@@ -1,4 +1,8 @@
 <div align="center">
+  <!-- Header Banner -->
+  <img src="https://raw.githubusercontent.com/AppleYT9/AppleYT9/main/banner.png" alt="Header Banner" width="100%" />
+
+  <br/><br/>
   
   <!-- 3D Typing Animation -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=06B6D4&center=true&vcenter=true&width=700&lines=%F0%9F%A4%96+AI+%26+Machine+Learning+Engineer;%F0%9F%A7%A0+GenAI+%26+Explainable+RAG+Architect;%F0%9F%93%8A+Data+Scientist+%26+Causal+Inference+Specialist;%F0%9F%91%81%EF%B8%8F+Computer+Vision+%26+YOLOv8+%2B+ByteTrack;%E2%9A%99%EF%B8%8F+ML+Systems+%26+Production+AI+Deployment;" alt="3D Typing SVG" />

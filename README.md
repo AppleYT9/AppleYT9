@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Header Banner -->
-  <img src="https://raw.githubusercontent.com/AppleYT9/AppleYT9/main/banner.png" alt="Header Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/AppleYT9/AppleYT9/main/banner.png" alt="Header Banner" width="500" />
 
   <br/><br/>
   
